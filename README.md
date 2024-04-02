@@ -6,7 +6,7 @@ This script provides a quick and efficient way for Hyprland users to access and 
 
 ![rofi-hyprland-keybinds-cheatsheet Preview](./preview.png)
 
-## Demo Video
+## Demo Video (Click to Watch)
 
 [![Watch the video](./preview.gif)](https://youtu.be/O8DJ0Uc86I4)
 
