@@ -8,7 +8,7 @@ This script provides a quick and efficient way for Hyprland users to access and 
 
 ## Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/O8DJ0Uc86I4/maxresdefault.jpg)](https://youtu.be/O8DJ0Uc86I4)
+[![Watch the video](./preview.gif)](https://youtu.be/O8DJ0Uc86I4)
 
 ## Prerequisites
 
